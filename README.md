@@ -1,3 +1,2 @@
 # Notes
-This repository contains implementation of famous algorithms and fancy data structures in JAVA.
-
+This repository contains implementation of famous algorithms and fancy data structures in JAVA. I have a habit to keep record of everything I do. This is notes repository containing various algorithms implemented beautifully in JAVA. I use this as a reference whenever I feel to revise my topics. I like to maintain my own personal library where I can peek anytime and understand things in a more better way than what is available on internet.
